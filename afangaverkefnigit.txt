@@ -15,3 +15,6 @@ Færslur eru skrár sem einhver sendir á netið
 
 skrár:
 skrár eru gögn sem geta verið á öllum formum rafrænum eða stafrænum
+
+skrársnið:
+Skráarsnið eru flokkar fyrir öðruvísi gerðir á skrám. Dæmi um skráarsnið eru .JPEG og .PNG sem eru skráarsnið sem eru fyrir venjulegar myndir
