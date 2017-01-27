@@ -9,3 +9,6 @@ Gagnasöfn er þar sem gögnin eru geymd oftast í skipulagðri röð svo það 
 
 Gagnasafnskerfi:
 Ef það ekki passað up á gögnin í kerfinu verða miklar líkur á því að þeim verða stolið.
+
+Færsla:
+Færslur eru skrár sem einhver sendir á netið
