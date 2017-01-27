@@ -5,4 +5,7 @@ Gögn:
 Gögn eru eitthvað sem heldur í upplýsingar, heimildir og fróðleika, bækur eru gögn, blöð sem eru búið að skrifa á eru gögn. Allt sem að fólk geymir eru getum við kallað gögn. 
 
 Gagnasafn:
-. Gagnasöfn er þar sem gögnin eru geymd oftast í skipulagðri röð svo það er auðveldara að finna og sækja þau.
+Gagnasöfn er þar sem gögnin eru geymd oftast í skipulagðri röð svo það er auðveldara að finna og sækja þau.
+
+Gagnasafnskerfi:
+Ef það ekki passað up á gögnin í kerfinu verða miklar líkur á því að þeim verða stolið.
