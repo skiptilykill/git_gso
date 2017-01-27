@@ -12,3 +12,6 @@ Ef það ekki passað up á gögnin í kerfinu verða miklar líkur á því að
 
 Færsla:
 Færslur eru skrár sem einhver sendir á netið
+
+skrár:
+skrár eru gögn sem geta verið á öllum formum rafrænum eða stafrænum
